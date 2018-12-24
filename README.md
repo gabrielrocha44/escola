@@ -1,1 +1,1 @@
-# Projeto de iniciacao Laravel - CRUD escolas
+# Projeto de iniciacao Laravel - CRUD
